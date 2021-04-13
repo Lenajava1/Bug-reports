@@ -1,0 +1,19 @@
+COMPONENT
+Profile
+
+ACTION PERFORMED
+1. Launch the app Nike
+2. Open profile
+3. Tap on Your Nike member rewards
+4. Tap on Member Exclusives
+5. Click on Shop now
+6. Open Search
+
+EXPECTED RESULT
+The buttons should display a little upper
+
+ACTUAL RESULT
+The keyboard overlaps the buttons Camera and Photos
+
+DEVICE/OS/BROWSER 
+iPhone 8/iOS 13.3.1/Safari

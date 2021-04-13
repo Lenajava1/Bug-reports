@@ -1,0 +1,26 @@
+Avon - ON - iOS App
+
+COMPONENT
+Notifications
+
+ACTION PERFORMED
+1. Launch Avon On
+2. Navigates to SSH - scheduled posts (Tervezett posztok)
+3. Choose 1 schedule post with (...) in the right top corner
+4. Select the option "schedule" (Szerkesztés)
+5. Press the button Következő
+6. In the menu select Allits be emlekeztetot
+7. Select time (For example, 21.14) and tap on beallitva
+8. When notifications will come tap on the pop-up message
+
+EXPECTED RESULT
+The app should keep work
+
+ACTUAL RESULT
+The app crash after tapping the pop-up notifications
+
+DEVICE AND OS 
+iPhone 8 iOS 14.0.1
+
+Country 
+Hungary

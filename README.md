@@ -1,2 +1,2 @@
-# ListBoxer/Bug-reports
+# Bug-reports
 Examples of bug reports and test cases.

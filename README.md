@@ -1,2 +1,2 @@
 # Bug-reports
-Examples of bug reports and test cases.
+Examples of bug reports

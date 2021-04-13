@@ -1,0 +1,26 @@
+Nike.com - SNKRS Web
+
+ACTION PERFORMED
+1. Navigate to www.nike.com/hu/en
+and select SNEAKRS LAUNCH CALENDAR from the menu
+2. Add any 2 shoes from "In Stock' and go to cart
+3. In the cart select any product and click "More options".
+4. Click "Move to Favorites" then you should sign in as a member. Fill the fields e-mail and password.
+5. Select any product and click "More options" > "Move to Favorites".
+6. Try to change the quantity of another product in a cart
+
+EXPECTED RESULT
+The number of items should be changed.
+
+ACTUAL RESULT
+
+The error appears, the cart is empty. The customer sees the message "There are no items in your bag".
+
+ERROR MESSAGE
+Error Cannot use wildcard in Access-Control-Allow-Origin when credentials flag is true.
+
+ADDITIONAL ENVIRONMENT INFO
+This problem occurs from time to time when making changes to the cart.
+
+DEVICE / OS/ BROWSER 
+Apple iPhone 8/iOS 13.3.1/Safari

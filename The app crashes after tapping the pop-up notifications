@@ -17,7 +17,7 @@ EXPECTED RESULT
 The app should keep work
 
 ACTUAL RESULT
-The app crash after tapping the pop-up notifications
+The app crashes after tapping the pop-up notifications
 
 DEVICE AND OS 
 iPhone 8 iOS 14.0.1
